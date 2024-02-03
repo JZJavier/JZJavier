@@ -25,8 +25,8 @@ I am software development student in 42 Madrid, this is the perfect environment 
 You can use this api: https://github.com/jzjavier/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=jzjavierr&show_icons=true&hide_border=true" />
+  <a href="https://github.com/jzjavier/handle-path-oz">
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=jzjavier&show_icons=true&hide_border=true" />
   </a>
 
   <!-- Languages and tools. Be careful with the alignment. 
