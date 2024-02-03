@@ -27,10 +27,11 @@ You can use this api: https://github.com/jzjavier/github-readme-stats
     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=jzjavier&show_icons=true&hide_border=true" />
   </a>
 
-  <!-- Languages and tools. Be careful with the alignment. 
-  Use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  <!-- Languages and tools. 
+  https://simpleicons.org/
   -->
   <code><img width="5%" src="https://unpkg.com/simple-icons@v11/icons/c.svg"></code>
+  <code><img width="5%" src="https://unpkg.com/simple-icons@v11/icons/gnubash.svg"></code>
   <br />
   <code><img width="5%" src="https://unpkg.com/simple-icons@v11/icons/git.svg"></code>
   <br />
