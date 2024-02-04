@@ -19,13 +19,6 @@ I am software development student in 42 Madrid, this is the perfect environment 
 
 **Languages and Tools:** 
 
-<!-- Your github readme stats
-You can use this api: https://github.com/jzjavier/github-readme-stats
--->
-<p>
-  <a href="https://github.com/jzjavier/handle-path-oz">
-    <img width="50%" align="right" alt="JZJavier's github stats" src="https://github-readme-stats.vercel.app/api?username=jzjavier&show_icons=true&hide_border=true" />
-  </a>
 
   <!-- Languages and tools. 
   https://simpleicons.org/
@@ -40,3 +33,9 @@ You can use this api: https://github.com/jzjavier/github-readme-stats
   <br />
   <br />
 </p>
+
+## My Github Information 📊
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jzjavier&show_icons=true&locale=en" alt="jzjavier" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jzjavier&" alt="jzjavier" /></p>
