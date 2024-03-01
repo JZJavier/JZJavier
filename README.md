@@ -7,7 +7,9 @@ Use this website to generate badges: https://shields.io/
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jzjavier)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javier-juarez-zarruk/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:javierjuarezarruk@gmail.com)
-&nbsp;
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JZjavier&label=Vistas%20Perfil&color=0e75b6&style=flat" alt="JZjavier" /> </p>
+
+
 
 **About me:**
 <!-- Any image aligned to the right. Beware the width -->
